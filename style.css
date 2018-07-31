@@ -1,6 +1,15 @@
+body {
+    background: lime;
+}
+
 section {
     width: 900px;
     margin: auto;
+}
+
+h1 {
+    color: red;
+    font-size: 32px;
 }
 
 img {
